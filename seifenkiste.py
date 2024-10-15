@@ -59,4 +59,4 @@ if hochgeladene_datei is not None:
         st.text_area("Transkription", transkription, height=300)
 
 st.markdown("---")
-st.markdown("Erstellt mit ❤️ unter Verwendung von Streamlit und dem OpenAI Whisper-Modell")
+st.markdown("Made by Alex")
