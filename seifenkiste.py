@@ -22,8 +22,7 @@ st.set_page_config(page_title="Seifenkiste: Audio to Text", page_icon="🎙️",
 st.title("🎙️ Seifenkiste: Audio to Text")
 
 st.markdown("""
-Diese App ermöglicht es Ihnen, Audiodateien hochzuladen und sie mithilfe des OpenAI Whisper-Modells zu transkribieren.
-Unterstützte Formate: MP3, MP4, MPEG, MPGA, M4A, WAV und WEBM.
+Diese App ermöglicht es, Audiodateien hochzuladen und sie mithilfe des OpenAI Whisper-Modells zu transkribieren.
 """)
 
 sprachen = {
